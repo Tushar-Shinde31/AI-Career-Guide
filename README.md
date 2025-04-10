@@ -1,36 +1,131 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![AI Career Guide](![Screenshot (292)](https://github.com/user-attachments/assets/8d747bc3-6b9c-4a52-b1e8-34b240f731d5)
 
-## Getting Started
+# 🚀 AI Career Guide
 
-First, run the development server:
+An intelligent career guide platform to help users build AI-generated **Resumes**, **Cover Letters**, and explore **current industry insights** to advance their careers — all packed in a beautifully designed web app!
 
+[![Deploy on Vercel](https://vercel.com/button)](https://vercel.com/)
+
+---
+
+## 🌟 Features
+
+- ✨ **AI-Powered Resume & Cover Letter Generator**  
+  Utilizes **Gemini API** to generate high-quality, personalized resumes and cover letters with smart suggestions.
+
+- 🌍 **Live Industry Insights**  
+  Using **Inngest**, users get real-time updates about their chosen industry trends based on their profile and skills.
+
+- 📝 **Onboarding Flow**  
+  Users fill out a dynamic onboarding form including:
+  - Industry / Field selection
+  - Skills & Expertise
+  - Personal description / goals
+
+- 🖼️ **Beautiful UI**  
+  Crafted with **Shadcn UI** and **Tailwind CSS** for an elegant and responsive user interface.
+
+- ☁️ **Deployment**  
+  Live and running on **Vercel** for seamless performance and accessibility.
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js** — React framework for building the app
+- **Prisma** — ORM for database interactions
+- **Neon Database** — Serverless Postgres database
+- **Gemini API** — AI suggestions for resume & cover letters
+- **Inngest** — For fetching live industry insights
+- **Shadcn UI** — Component library for fast development
+- **Tailwind CSS** — Utility-first CSS framework
+
+
+---
+
+## 📸 Screenshots
+
+> 🏠 **Home Screen**
+>
+> ![Home Screen](https://your-image-link-here.com/home-screen.png)
+>
+> 📝 **Resume Generator**
+>
+> ![Resume Generator](https://your-image-link-here.com/resume-generator.png)
+>
+> 📊 **Industry Insights**
+>
+> ![Industry Insights](https://your-image-link-here.com/industry-insights.png)
+
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/your-username/ai-career-guide.git
+cd ai-career-guide
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Install dependencies
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 3. Setup environment variables
+Create a `.env.local` file and add your keys:
+```bash
+NEXT_PUBLIC_GEMINI_API_KEY=your-gemini-api-key
+NEXT_PUBLIC_INNGEST_API_KEY=your-inngest-api-key
+DATABASE_URL=your-neon-database-url
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 4. Run the development server
+```bash
+npm run dev
+```
 
-## Learn More
+### 5. Open your browser
+```
+http://localhost:3000
+```
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🌐 Live Demo
 
-## Deploy on Vercel
+Check out the live version here: [AI Career Guide](https://your-vercel-deployment-url.vercel.app)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request to make this project even better.
+
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🙌 Acknowledgements
+
+- [Next.js](https://nextjs.org/)
+- [Prisma](https://www.prisma.io/)
+- [Neon Database](https://neon.tech/)
+- [Gemini AI](https://ai.google.com/gemini/)
+- [Inngest](https://www.inngest.com/)
+- [Shadcn UI](https://ui.shadcn.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vercel](https://vercel.com/)
+
+---
+
+> Made with ❤️ by [Your Name]

@@ -1,4 +1,4 @@
-![AI Career Guide](![Screenshot (292)](https://github.com/user-attachments/assets/8d747bc3-6b9c-4a52-b1e8-34b240f731d5)
+(![Screenshot (292)](https://github.com/user-attachments/assets/8d747bc3-6b9c-4a52-b1e8-34b240f731d5)
 
 # 🚀 AI Career Guide
 
@@ -40,23 +40,6 @@ An intelligent career guide platform to help users build AI-generated **Resumes*
 - **Inngest** — For fetching live industry insights
 - **Shadcn UI** — Component library for fast development
 - **Tailwind CSS** — Utility-first CSS framework
-
-
----
-
-## 📸 Screenshots
-
-> 🏠 **Home Screen**
->
-> ![Home Screen](https://your-image-link-here.com/home-screen.png)
->
-> 📝 **Resume Generator**
->
-> ![Resume Generator](https://your-image-link-here.com/resume-generator.png)
->
-> 📊 **Industry Insights**
->
-> ![Industry Insights](https://your-image-link-here.com/industry-insights.png)
 
 
 ---

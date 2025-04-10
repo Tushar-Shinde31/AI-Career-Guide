@@ -1,10 +1,10 @@
-(![Screenshot (292)](https://github.com/user-attachments/assets/8d747bc3-6b9c-4a52-b1e8-34b240f731d5)
+![Screenshot (292)](https://github.com/user-attachments/assets/8d747bc3-6b9c-4a52-b1e8-34b240f731d5)
 
 # 🚀 AI Career Guide
 
 An intelligent career guide platform to help users build AI-generated **Resumes**, **Cover Letters**, and explore **current industry insights** to advance their careers — all packed in a beautifully designed web app!
 
-[![Deploy on Vercel](https://vercel.com/button)](https://vercel.com/)
+[![Deploy on Vercel](https://vercel.com/button)](https://ai-career-guide-ten.vercel.app/)
 
 ---
 
@@ -80,7 +80,7 @@ http://localhost:3000
 
 ## 🌐 Live Demo
 
-Check out the live version here: [AI Career Guide](https://your-vercel-deployment-url.vercel.app)
+Check out the live version here: [AI Career Guide](https://ai-career-guide-ten.vercel.app/)
 
 
 ---
@@ -111,4 +111,4 @@ This project is licensed under the MIT License.
 
 ---
 
-> Made with ❤️ by [Your Name]
+> Made with ❤️ by Tushar Shinde
